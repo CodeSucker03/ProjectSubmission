@@ -1,0 +1,7 @@
+Group,Full name,Student Id
+1,Ta Duc Duy,20210268
+1,Truong Thanh Hung,20218152
+2,Nguyen Le Hoang,20218148
+2,Pham Vu Thai,20218244
+3,Pham Vu Thai,2021111
+3,Nguyen Nhat Hoang,2021222
